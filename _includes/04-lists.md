@@ -1,3 +1,6 @@
 A list of my favorite things :
-. cat 
-. dog
+- cat
+- dog
+- man
+- law
+- kfs
